@@ -2,13 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 
-Console.WriteLine("Hello, World!");
-
-var sol = new Solution();
-int[] A = [ 2, 3, 7, 15, 19 ];
-Console.WriteLine(sol.solution(A));
-Console.ReadLine();
-
 class Solution {
     public int solution(int[] A)
     {
